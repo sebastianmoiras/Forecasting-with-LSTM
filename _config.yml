@@ -1,0 +1,7 @@
+title: "Forecasting AT Temperature with LSTM"
+description: >
+  Time series forecasting project using Long Short-Term Memory (LSTM) networks to predict Ambient Temperature (AT, °C) from historical environmental data.
+author: "Jonathan Sebastian Moiras"
+github_username: sebastianmoiras
+show_downloads: false
+theme: jekyll-theme-minimal
